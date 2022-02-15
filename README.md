@@ -1,7 +1,7 @@
 # Lee-JunHo-assignment1
 
 ## Program and Libraries used
- * Python ver. used: 3.7
+ * Python ver. 3.7
  * Socket
 
 Before trying these programs, the web browsers that worked with this program are:
